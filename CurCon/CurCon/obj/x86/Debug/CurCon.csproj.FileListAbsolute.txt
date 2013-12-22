@@ -1,0 +1,13 @@
+c:\users\pawan\documents\visual studio 2010\Projects\CurCon\CurCon\bin\Debug\CurCon.exe
+c:\users\pawan\documents\visual studio 2010\Projects\CurCon\CurCon\bin\Debug\CurCon.pdb
+c:\users\pawan\documents\visual studio 2010\Projects\CurCon\CurCon\obj\x86\Debug\CurCon.Properties.Resources.resources
+c:\users\pawan\documents\visual studio 2010\Projects\CurCon\CurCon\obj\x86\Debug\CurCon.csproj.GenerateResource.Cache
+c:\users\pawan\documents\visual studio 2010\Projects\CurCon\CurCon\obj\x86\Debug\CurCon.exe
+c:\users\pawan\documents\visual studio 2010\Projects\CurCon\CurCon\obj\x86\Debug\CurCon.pdb
+c:\users\pawan\documents\visual studio 2010\Projects\CurCon\CurCon\obj\x86\Debug\CurCon.Form1.resources
+C:\Users\Pawan\documents\visual studio 2010\Projects\CurCon\CurCon\obj\x86\Debug\CurCon.csprojResolveAssemblyReference.cache
+C:\Users\Pawan\documents\visual studio 2010\Projects\CurCon\CurCon\obj\x86\Debug\CurCon.Form2.resources
+C:\Users\Pawan\documents\visual studio 2010\Projects\CurCon\CurCon\bin\Debug\CurCon.exe.manifest
+C:\Users\Pawan\documents\visual studio 2010\Projects\CurCon\CurCon\bin\Debug\CurCon.application
+C:\Users\Pawan\documents\visual studio 2010\Projects\CurCon\CurCon\obj\x86\Debug\CurCon.exe.manifest
+C:\Users\Pawan\documents\visual studio 2010\Projects\CurCon\CurCon\obj\x86\Debug\CurCon.application

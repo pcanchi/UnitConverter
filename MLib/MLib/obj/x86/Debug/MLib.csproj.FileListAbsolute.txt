@@ -1,0 +1,8 @@
+c:\users\pawan\documents\visual studio 2010\Projects\MLib\MLib\bin\Debug\MLib.exe
+c:\users\pawan\documents\visual studio 2010\Projects\MLib\MLib\bin\Debug\MLib.pdb
+c:\users\pawan\documents\visual studio 2010\Projects\MLib\MLib\obj\x86\Debug\MLib.Form1.resources
+c:\users\pawan\documents\visual studio 2010\Projects\MLib\MLib\obj\x86\Debug\MLib.Properties.Resources.resources
+c:\users\pawan\documents\visual studio 2010\Projects\MLib\MLib\obj\x86\Debug\MLib.csproj.GenerateResource.Cache
+c:\users\pawan\documents\visual studio 2010\Projects\MLib\MLib\obj\x86\Debug\MLib.exe
+c:\users\pawan\documents\visual studio 2010\Projects\MLib\MLib\obj\x86\Debug\MLib.pdb
+C:\Users\Pawan\documents\visual studio 2010\Projects\MLib\MLib\obj\x86\Debug\MLib.csprojResolveAssemblyReference.cache
